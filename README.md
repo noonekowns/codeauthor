@@ -15,7 +15,7 @@ source files from 5 Apache projects, and our dataset contains 14,657 commits ove
 
 Here is the list of our [dataset](https://github.com/noonekowns/codeauthor/tree/main/dataset).
 
-Here is the list of our [models](https://github.com/gongsiyi/identifying_codeauthors_overtime/tree/main/models).
+Here is the list of our [models](https://github.com/noonekowns/codeauthor/tree/main/models).
 
 
 
