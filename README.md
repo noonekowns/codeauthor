@@ -8,10 +8,8 @@ To the best of our knowledge, only one large-scale study (e.g., [2]) was conduct
 Although their research questions are interesting, we have low confidence on their answers, since their settings have flaws. 
 To improve our understanding on this research problem, we evaluated their approach on more realistic settings. 
 
-
-In this study, we conduct an empirical study to explore the time effect and the impacts of author distributions. We select the state-of-the-art approach [3] as our subject, but we introduce more carefully designed projects. While the prior study [3] mainly uses Google Code Jam programs, we collected real
-source files from 5 Apache projects, and our dataset contains 14,657 commits over twenty years.
-
+To meet the timely needs, in this paper, we conduct an empirical study. In this study, we analyze a more recent version [3] of the approach that is used in the prior study [2].
+The prior study [3] mainly uses Google Code Jam programs that are submitted in two years, but we collected 14,657 commits from real projects over twenty years.
 
 Our dataset is stored in the dataset file.
 
