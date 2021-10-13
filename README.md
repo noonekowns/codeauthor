@@ -13,7 +13,7 @@ In this study, we conduct an empirical study to explore the time effect and the 
 source files from 5 Apache projects, and our dataset contains 14,657 commits over twenty years.
 
 
-Our dataset and models are stored in the dataset file and models file.
+Our dataset is stored in the dataset file.
 
 
 
