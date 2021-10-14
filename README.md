@@ -11,7 +11,7 @@ To improve our understanding on this research problem, we evaluated their approa
 To meet the timely needs, in this paper, we conduct an empirical study. In this study, we analyze a more recent version [3] of the approach that is used in the prior study [2].
 The prior study [3] mainly uses Google Code Jam programs that are submitted in two years, but we collected 14,657 commits from real projects over twenty years.
 
-Our dataset is stored in the dataset file.
+Our dataset is stored in the dataset folder.
 
 
 
