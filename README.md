@@ -1,4 +1,4 @@
-# A Study on Temporal Effect on Identifying Code Author
+# A Study on Identifying Code Author from Real Development
 
 ## Project summary
 
