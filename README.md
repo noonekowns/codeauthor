@@ -1,4 +1,4 @@
-# A Study on Identifying Code Author from Real Development
+# How Challenging to Identify Real Code Authors: An Empirical Study
 
 ## Project summary
 
